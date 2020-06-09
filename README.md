@@ -1,5 +1,5 @@
-# uk_public_wireframing
-A collection of the various kits used to create wireframing kits in the UK Public Sector
+# uk_public_design_tools
+A collection of the various tools and platforms used to by designers in the UK Public Sector
 
 ## GOV.UK
 
