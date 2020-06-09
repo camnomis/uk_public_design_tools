@@ -5,7 +5,7 @@ A collection of the various tools and platforms used to by designers in the UK P
 
 ### Adobe
 
-https://github.com/SulimanK/gds-adobexd-wireframing-kit
+[GOV.UK AdobeXD Wireframing Kit](https://medium.com/hippo-digital/gov-uk-adobexd-wireframing-kit-af5e877343b9) = https://github.com/SulimanK/gds-adobexd-wireframing-kit
 
 ### Figma
 
